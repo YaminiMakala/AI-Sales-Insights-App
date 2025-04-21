@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+python-dotenv
+fpdf
+ctransformers
+matplotlib
+seaborn
+psycopg2-binary

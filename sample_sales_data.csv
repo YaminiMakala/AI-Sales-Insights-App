@@ -1,0 +1,6 @@
+date,customer_name,product_name,amount,status
+2024-04-01,Alice,AI Report,120.5,Completed
+2024-04-02,Bob,LLM API,200.0,Pending
+2024-04-03,Carol,Training,340.0,Completed
+2024-04-04,David,Consulting,500.0,Completed
+2024-04-05,Eve,LLM API,250.0,Cancelled

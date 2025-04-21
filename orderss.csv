@@ -1,0 +1,11 @@
+OrderID,Customer Name,Order Date,Amount,Status
+1,Alice,2023-01-15,150.75,Completed
+2,Bob,2023-01-18,245.00,Pending
+3,Charlie,2023-02-02,320.40,Completed
+4,Alice,2023-02-20,99.99,Cancelled
+5,Eve,2023-03-05,430.20,Completed
+6,Diana,2023-03-17,87.50,Pending
+7,Bob,2023-04-10,120.00,Completed
+8,Charlie,2023-04-21,300.00,Completed
+9,Eve,2023-05-02,210.00,Completed
+10,Diana,2023-05-15,500.75,Cancelled
